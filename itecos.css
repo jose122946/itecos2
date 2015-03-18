@@ -13,7 +13,7 @@ body
 	padding:0;
 }
 header
-{	margin-top: -16px;
+{	/*margin-top: -16px;*/
 	width: 100%;
 }
 ul li
@@ -27,6 +27,11 @@ ul li a
 	text-decoration: none;
 	color: white;
 
+}
+ul
+{	
+	width: 40%;
+	margin:0 auto;
 }
 #boxmenu
 {
