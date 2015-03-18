@@ -1,20 +1,44 @@
-
-body
+html
 {
-	margin: 0 auto;
+	margin: 0;
+	padding:0;
+}
+body
+{	
 	max-width: 2000px;
 	width: 100%;
+	
+	margin: 0 auto;
+	
+	padding:0;
+}
+header
+{	margin-top: -16px;
+	width: 100%;
+}
+ul li
+{
+	list-style: none;
+
+}
+ul li a
+{
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
 
 }
 #boxmenu
 {
+
+	margin: 0 auto;
 	width: 100%;
 	height: 70px;
 	background: #0C7DD1;
 }
 .menu
 {
-
+	
 	margin-left: 10px;
 	display: inline-block;
 }
