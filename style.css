@@ -25,6 +25,7 @@
 
 .icon-paragraph-left:before {
 	content: "\ea77";
+	text-decoration: none;
 }
 
 .icon-google-plus2:before {

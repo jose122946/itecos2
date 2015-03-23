@@ -3,6 +3,7 @@ html
 	margin: 0;
 	padding:0;
 	height: 100%;
+	
 }
 body
 {	
@@ -39,12 +40,17 @@ ul
 }
 footer
 {
+	margin-top: 40px;
 	height: 100px;
 	width: 100%;
 	position: fixed;
 	bottom: 0px;
 	background: #61787C;
 	
+}
+section
+{
+	margin-bottom: 100px;
 }
 #boxmenu
 {
@@ -95,8 +101,9 @@ footer
 }
 a
 {
-	text-align: none;
+	text-decoration:none;
 }
+
 .menu
 {
 	
@@ -133,5 +140,12 @@ text-align: left;
 
 .red
 {
-	text-decoration: none;
+color:black;	
+}
+.red2:hover
+{
+text-decoration: none;
+-webkit-transition:all 1.5s;
+color: blue;
+
 }

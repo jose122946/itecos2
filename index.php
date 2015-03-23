@@ -36,7 +36,7 @@
 	<section>
 	<article id="box1">
 
-			<h2>Buenos Dias</h2>
+			<h2>Bienvenidos</h2>
 		<p>Lorem ipsum dolor sit amet, 
 		consectetur adipisicing elit. 
 		Mollitia ipsa voluptates voluptate cu
@@ -63,7 +63,7 @@
 		<div id="derechos">&copy;Derechos Reservados</div>
 		<div id="redes">
 			<p id="redes1">Siguenos en nuestras redes sociales</p>
-			<a href=""><span  class="icon-facebook2" class="red"></span></a><a href=""><span class="icon-twitter2" class="red"></span></a><a href=""><span  class="icon-google-plus2" class="red"></span></a>
+			<a href="#" class="red2"><span  class="icon-facebook2" class="red"></span></a><a href="#" class="red2"><span class="icon-twitter2" class="red"></span></a><a href="#" class="red2"><span  class="icon-google-plus2" class="red"></span></a>
 		</div>
 		</footer>
 
